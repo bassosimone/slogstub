@@ -3,7 +3,7 @@ module github.com/bassosimone/slogstub
 go 1.25.5
 
 require (
-	github.com/bassosimone/runtimex v0.0.0-20260615112505-ee72c4f0769e
+	github.com/bassosimone/runtimex v0.0.0-20260708083610-01df83158243
 	github.com/stretchr/testify v1.11.1
 )
 
